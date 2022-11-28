@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PathFollowing.unity
     guid: b60a37e8cda65c040bbc7524af2182fb
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: aa5f03f6ab5b8b040a6e7f4f19ea7549
+  - enabled: 1
+    path: Assets/Scenes/COBA1.unity
+    guid: 2d171658d25cb7848aadcbdd2ef269c2
+  - enabled: 1
+    path: Assets/Scenes/COBA2.unity
+    guid: 1cd81a64adab8b64881b04d1dfc6b66e
   m_configObjects: {}
